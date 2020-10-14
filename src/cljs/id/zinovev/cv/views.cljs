@@ -32,7 +32,7 @@
    [:div {:style {:position "absolute"
                   :top "20px"
                   :right "20px"}}
-    [:a.paper-btn.btn-success {:href "https://github.com/zombiqwerty/cv/raw/master/ZinovevP_CV.pdf"
+    [:a.paper-btn.btn-success {:href "https://github.com/zombiqwerty/cv/raw/main/ZinovevP_CV.pdf"
                                :target "_blank"}
      "Download PDF"]]
    [:div.col-3.col
