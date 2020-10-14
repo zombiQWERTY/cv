@@ -4,7 +4,7 @@
   {:header {:avatarUrl "https://i.ibb.co/CJdm21m/1-Wa-ITHi-St-Z0.jpg"
             :hero {:name "Paul Zinovev"
                    :jobTitle "Full-stack javascript & clojure developer"
-                   :description "Currently working as clojure developer at one of the best health-it companies in Russia. Creating and developing interfaces that uses is the health-it sector around the world"}}
+                   :description "Currently working as clojure developer at one of the best health-it companies in Russia. Creating and developing interfaces that are used in the health-it sector around the world"}}
    :body {:sidebar {:contact {:email "p.zinovev@pm.me"
                               :phone "+79207666430"
                               :telegram "zombiqwerty"
